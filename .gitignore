@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.blend
+*.blend1
+*.blend2
+*.exr
+*.mp4
+renders/
+.DS_Store
+Thumbs.db
